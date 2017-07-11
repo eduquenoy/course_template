@@ -1,4 +1,4 @@
-#Bienvenue sur mon premier cours
+#Ceci est un cours produit avec Esc@pade
 
 ##Plan du cours
 
